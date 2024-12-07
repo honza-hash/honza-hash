@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on new project :)
 - 📫 How to reach me hello@studiohonzik.cz
 - 😄 Pronouns: he/him
+- 🦺 Developing some new things
+  
   
 
 <!---
