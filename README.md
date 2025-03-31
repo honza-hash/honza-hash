@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 - 🤔 I’m looking for help with improving my knowledge in blockchain technology
 - 💬 Ask me about web development, Python, JavaScript, and cloud computing
 - 📫 How to reach me: 
-  - Email: hello@studiohonzik.cz
+  - Web: :https://ihos.eu/contact
 - ⚡ Fun fact: I love hiking and exploring nature trails, and I have a deep passion for PC and IT.
 
 ## 🛠️ Languages and Tools
